@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    </head>
+    <body>
+        <p>
+            <label> Which of the following would you like to learn?<br/>
+            <input type="text" name="web" list="lang">
+                <datalist id="lang">
+                    <option value="HTML5"></option>
+                    <option value="JavaScript"></option>
+                    <option value="JQuery"></option>
+                    <option value="ActionScript 3.0"></option>
+                    <option value="Java"></option>
+                </datalist>
+            
+            </label>
+            <br/>
+        </p>
+    </body>
+</html>
